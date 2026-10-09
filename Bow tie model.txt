@@ -1,0 +1,250 @@
+Core Nodes: ['France', 'Netherlands', 'United Kingdom', 'Thailand', 'USA']  
+Node Categories:
+Canada: Upstream
+Afghanistan: Upstream
+Belgium: Upstream
+Armenia: Upstream
+Bangladesh: Upstream
+Austria: Upstream
+Australia: Upstream
+Argentina: Upstream
+Azerbaijan: Upstream
+Sri Lanka: Upstream
+China: Upstream
+Bulgaria: Upstream
+Brazil: Upstream
+Albania: Upstream
+World: Upstream
+Switzerland: Upstream
+Russian Federation: Upstream
+Saudi Arabia: Upstream
+Tajikistan: Upstream
+Türkiye: Upstream
+Thailand: Upstream
+United Arab Emirates: Upstream
+United Kingdom: Upstream
+Viet Nam: Upstream
+Syria: Upstream
+USA: Upstream
+Turkmenistan: Upstream
+Colombia: Upstream
+Cuba: Upstream
+Cyprus: Upstream
+Denmark: Upstream
+Finland: Upstream
+Iran: Upstream
+
+Georgia: Upstream
+Germany: Upstream
+Greece: Upstream
+Guatemala: Upstream
+Japan: Upstream
+Holy See (Vatican City State): Upstream
+China, Hong Kong SAR: Upstream
+Hungary: Upstream
+Indonesia: Upstream
+Kazakhstan: Upstream
+Rep. of Korea: Upstream
+Lebanon: Upstream
+Iraq: Upstream
+Ireland: Upstream
+Malaysia: Upstream
+Italy: Upstream
+Ukraine: Upstream
+Uzbekistan: Upstream
+Egypt: Upstream
+Uruguay: Upstream
+Other Asia, nes: Upstream
+Jordan: Upstream
+Kenya: Upstream
+Latvia: Upstream
+Pakistan: Upstream
+Luxembourg: Upstream
+Morocco: Upstream
+Nepal: Upstream
+Netherlands: Upstream
+New Zealand: Upstream
+Norway: Upstream
+India: Upstream
+Singapore: Upstream
+Poland: Upstream
+Romania: Upstream
+Philippines: Upstream
+Slovakia: Upstream
+South Africa: Upstream
+Spain: Upstream
+Sweden: Upstream
+Algeria: Upstream
+Antigua and Barbuda: Upstream
+Bahrain: Upstream
+Bosnia Herzegovina: Upstream
+Bhutan: Upstream
+Bolivia (Plurinational State of): Upstream
+Belize: Upstream
+Brunei Darussalam: Upstream
+Myanmar: Upstream
+Belarus: Upstream
+Cambodia: Upstream
+Cameroon: Upstream
+Central African Rep.: Upstream
+Chile: Upstream
+Costa Rica: Upstream
+Croatia: Upstream
+Comoros: Upstream
+Congo: Upstream
+Czechia: Upstream
+Ecuador: Upstream
+Dominican Rep.: Upstream
+Ethiopia: Upstream
+Estonia: Upstream
+Falkland Isds (Malvinas): Upstream
+Gabon: Upstream
+Ghana: Upstream
+Gibraltar: Upstream
+Kiribati: Upstream
+Guinea: Upstream
+Guyana: Upstream
+Honduras: Upstream
+Iceland: Upstream
+Israel: Upstream
+Côte d'Ivoire: Upstream
+Jamaica: Upstream
+Dem. People's Rep. of Korea: Upstream
+Libya: Upstream
+Lithuania: Upstream
+Kuwait: Upstream
+Kyrgyzstan: Upstream
+Lao People's Dem. Rep.: Upstream
+China, Macao SAR: Upstream
+Madagascar: Upstream
+Malawi: Upstream
+Mexico: Upstream
+Mali: Upstream
+Malta: Upstream
+Mauritania: Upstream
+Mauritius: Upstream
+Montenegro: Upstream
+Rep. of Moldova: Upstream
+Mozambique: Upstream
+Oman: Upstream
+Namibia: Upstream
+New Caledonia: Upstream
+Nicaragua: Upstream
+Niger: Upstream
+Nigeria: Upstream
+Peru: Upstream
+Panama: Upstream
+Paraguay: Upstream
+Portugal: Upstream
+Guinea-Bissau: Upstream
+Qatar: Upstream
+Serbia: Upstream
+Saint Helena: Upstream
+Anguilla: Upstream
+San Marino: Upstream
+Sao Tome and Principe: Upstream
+Senegal: Upstream
+Sierra Leone: Upstream
+Slovenia: Upstream
+Zimbabwe: Upstream
+Sudan (...2011): Upstream
+Suriname: Upstream
+Eswatini: Upstream
+Tokelau: Upstream
+Trinidad and Tobago: Upstream
+Tunisia: Upstream
+North Macedonia: Upstream
+Turks and Caicos Isds: Upstream
+Uganda: Upstream
+Burkina Faso: Upstream
+Venezuela: Upstream
+Yemen: Upstream
+Areas, nes: Upstream
+Andorra: Upstream
+Angola: Upstream
+Bahamas: Upstream
+Bermuda: Upstream
+Botswana: Upstream
+Burundi: Upstream
+Cabo Verde: Upstream
+Chad: Upstream
+Benin: Upstream
+Dominica: Upstream
+El Salvador: Upstream
+Equatorial Guinea: Upstream
+Eritrea: Upstream
+Djibouti: Upstream
+State of Palestine: Upstream
+Grenada: Upstream
+Haiti: Upstream
+Lesotho: Upstream
+Maldives: Upstream
+Saint Kitts and Nevis: Upstream
+Saint Vincent and the Grenadines: Upstream
+Somalia: Upstream
+Togo: Upstream
+United Rep. of Tanzania: Upstream
+Zambia: Upstream
+Samoa: Upstream
+Other Europe, nes: Upstream
+Nauru: Upstream
+Dem. Rep. of the Congo: Upstream
+French Polynesia: Upstream
+Other Africa, nes: Upstream
+Papua New Guinea: Upstream
+Rwanda: Upstream
+American Samoa: Upstream
+Barbados: Upstream
+Br. Indian Ocean Terr.: Upstream
+Br. Virgin Isds: Upstream
+Mayotte (Overseas France): Upstream
+Gambia: Upstream
+Guam: Upstream
+Heard Island and McDonald Islands: Upstream
+Liberia: Upstream
+Mongolia: Upstream
+Curaçao: Upstream
+Aruba: Upstream
+Norfolk Isds: Upstream
+N. Mariana Isds: Upstream
+United States Minor Outlying Islands: Upstream
+Marshall Isds: Upstream
+Pitcairn: Upstream
+Timor-Leste: Upstream
+North America and Central America, nes: Upstream
+Seychelles: Upstream
+Cayman Isds: Upstream
+Fiji: Upstream
+Fr. South Antarctic Terr.: Upstream
+Montserrat: Upstream
+Saint Lucia: Upstream
+Wallis and Futuna Isds: Upstream
+Free Zones: Upstream
+Antarctica: Upstream
+Solomon Isds: Upstream
+Christmas Isds: Upstream
+Cocos Isds: Upstream
+Tonga: Upstream
+Tuvalu: Upstream
+Cook Isds: Upstream
+Vanuatu: Upstream
+Niue: Upstream
+FS Micronesia: Upstream
+Faeroe Isds: Upstream
+Special Categories: Upstream
+Greenland: Upstream
+Saint Pierre and Miquelon: Upstream
+Sint Maarten: Upstream
+Bonaire: Upstream
+Bunkers: Upstream
+South Georgia and the South Sandwich Islands: Upstream
+Bouvet Island: Upstream
+Sudan: Upstream
+Palau: Upstream
+Western Sahara: Upstream
+Oceania, nes: Upstream
+Neutral Zone: Upstream
+LAIA, nes: Upstream
+European Union: Downstream	
+France: Core	
+ASEAN: Downstream	

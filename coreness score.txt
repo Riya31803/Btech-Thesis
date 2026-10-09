@@ -1,0 +1,230 @@
+Canada: 0.268
+Afghanistan: 0.000
+Belgium: 0.304
+Armenia: 0.029
+Bangladesh: 0.071
+Austria: 0.280
+Australia: 0.307
+Argentina: 0.277
+Azerbaijan: 0.054
+Sri Lanka: 0.046
+China: 0.389
+Bulgaria: 0.130
+Brazil: 0.331
+Albania: 0.047
+World: 0.000
+Switzerland: 0.318
+Russian Federation: 0.327
+Saudi Arabia: 0.263
+Tajikistan: 0.016
+Türkiye: 0.288
+Thailand: 0.186
+United Arab Emirates: 0.227
+United Kingdom: 0.417
+Viet Nam: 0.144
+Syria: 0.013
+USA: 0.583
+Turkmenistan: 0.047
+Colombia: 0.196
+Cuba: 0.046
+Cyprus: 0.091
+Denmark: 0.312
+Finland: 0.276
+Iran: 0.164
+France: 0.425
+Georgia: 0.042
+Germany: 0.509
+Greece: 0.226
+Guatemala: 0.044
+Japan: 0.430
+Holy See (Vatican City State): 0.000
+China, Hong Kong SAR: 0.222
+Hungary: 0.182
+Indonesia: 0.184
+Kazakhstan: 0.146
+Rep. of Korea: 0.292
+Lebanon: 0.078
+Iraq: 0.058
+Ireland: 0.270
+Malaysia: 0.219
+Italy: 0.401
+Ukraine: 0.165
+Uzbekistan: 0.062
+Egypt: 0.145
+Uruguay: 0.112
+Other Asia, nes: 0.043
+Jordan: 0.069
+Kenya: 0.070
+Latvia: 0.098
+Pakistan: 0.097
+Luxembourg: 0.131
+Morocco: 0.095
+Nepal: 0.014
+Netherlands: 0.349
+New Zealand: 0.215
+Norway: 0.286
+India: 0.295
+Singapore: 0.273
+Poland: 0.232
+Romania: 0.153
+Philippines: 0.134
+Slovakia: 0.144
+South Africa: 0.191
+Spain: 0.367
+Sweden: 0.309
+Algeria: 0.111
+Antigua and Barbuda: 0.012
+Bahrain: 0.070
+Bosnia Herzegovina: 0.058
+Bhutan: 0.003
+Bolivia (Plurinational State of): 0.061
+Belize: 0.016
+Brunei Darussalam: 0.048
+Myanmar: 0.034
+Belarus: 0.114
+Cambodia: 0.043
+Cameroon: 0.057
+Central African Rep.: 0.006
+Chile: 0.210
+Costa Rica: 0.064
+Croatia: 0.107
+Comoros: 0.003
+Congo: 0.008
+Czechia: 0.207
+Ecuador: 0.103
+Dominican Rep.: 0.081
+Ethiopia: 0.049
+Estonia: 0.118
+Falkland Isds (Malvinas): 0.002
+Gabon: 0.041
+Ghana: 0.076
+Gibraltar: 0.003
+Kiribati: 0.001
+Guinea: 0.021
+Guyana: 0.022
+Honduras: 0.038
+Iceland: 0.065
+Israel: 0.228
+Côte d'Ivoire: 0.046
+Jamaica: 0.035
+Dem. People's Rep. of Korea: 0.016
+Libya: 0.036
+Lithuania: 0.104
+Kuwait: 0.126
+Kyrgyzstan: 0.020
+Lao People's Dem. Rep.: 0.015
+China, Macao SAR: 0.036
+Madagascar: 0.017
+Malawi: 0.008
+Mexico: 0.295
+Mali: 0.018
+Malta: 0.043
+Mauritania: 0.014
+Mauritius: 0.033
+Montenegro: 0.025
+Rep. of Moldova: 0.041
+Mozambique: 0.029
+Oman: 0.083
+Namibia: 0.029
+New Caledonia: 0.009
+Nicaragua: 0.025
+Niger: 0.011
+Nigeria: 0.110
+Peru: 0.160
+Panama: 0.097
+Paraguay: 0.055
+Portugal: 0.218
+Guinea-Bissau: 0.002
+Qatar: 0.118
+Serbia: 0.097
+Saint Helena: 0.000
+Anguilla: 0.001
+San Marino: 0.001
+Sao Tome and Principe: 0.002
+Senegal: 0.034
+Sierra Leone: 0.006
+Slovenia: 0.136
+Zimbabwe: 0.046
+Sudan (2011): 0.025
+Suriname: 0.016
+Eswatini: 0.010
+Tokelau: 0.000
+Trinidad and Tobago: 0.045
+Tunisia: 0.103
+North Macedonia: 0.063
+Turks and Caicos Isds: 0.004
+Uganda: 0.033
+Burkina Faso: 0.019
+Venezuela: 0.095
+Yemen: 0.011
+Areas, nes: 0.003
+Andorra: 0.008
+Angola: 0.051
+Bahamas: 0.029
+Bermuda: 0.011
+Botswana: 0.028
+Burundi: 0.008
+Cabo Verde: 0.008
+Chad: 0.007
+Benin: 0.022
+Dominica: 0.004
+El Salvador: 0.035
+Equatorial Guinea: 0.007
+Eritrea: 0.003
+Djibouti: 0.006
+State of Palestine: 0.008
+Grenada: 0.006
+Haiti: 0.018
+Lesotho: 0.007
+Maldives: 0.016
+Saint Kitts and Nevis: 0.004
+Saint Vincent and the Grenadines: 0.006
+Somalia: 0.004
+Togo: 0.020
+United Rep. of Tanzania: 0.046
+Zambia: 0.043
+Samoa: 0.007
+Other Europe, nes: 0.004
+Nauru: 0.001
+Dem. Rep. of the Congo: 0.032
+French Polynesia: 0.004
+Other Africa, nes: 0.002
+Papua New Guinea: 0.023
+Rwanda: 0.018
+American Samoa: 0.003
+Barbados: 0.012
+Br. Indian Ocean Terr.: 0.000
+Br. Virgin Isds: 0.003
+Mayotte (Overseas France): 0.002
+Gambia: 0.007
+Guam: 0.005
+Heard Island and McDonald Islands: 0.000
+Liberia: 0.016
+Mongolia: 0.033
+Curaçao: 0.009
+Aruba: 0.008
+Norfolk Isds: 0.000
+N. Mariana Isds: 0.002
+United States Minor Outlying Islands: 0.000
+Marshall Isds: 0.002
+Pitcairn: 0.000
+Timor-Leste: 0.005
+North America and Central America, nes: 0.004
+Seychelles: 0.007
+Cayman Isds: 0.006
+Fiji: 0.015
+Fr. South Antarctic Terr.: 0.000
+Montserrat: 0.002
+Saint Lucia: 0.007
+Wallis and Futuna Isds: 0.001
+Free Zones: 0.002
+Antarctica: 0.000
+Solomon Isds: 0.014
+Christmas Isds: 0.000
+Cocos Isds: 0.000
+Tonga: 0.007
+Tuvalu: 0.001
+Cook Isds: 0.005
+Vanuatu: 0.009
+Niue: 0.001
+FS Micronesia: 0.003
